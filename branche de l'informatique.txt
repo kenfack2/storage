@@ -1,0 +1,151 @@
+		CRITERE : DOMAINE D"ETUDE
+
+L’informatique est un domaine diversifié qui comporte de nombreuses branches différentes. 
+Il est facile de se perdre dans le jargon et de ne pas savoir quel type d’informaticien vous voulez être !
+
+Nous allons explorer les différentes branches de l’informatique fascinantes qui ne manqueront pas de susciter votre intérêt. 
+Nous aborderons la signification de l’informatique, les compétences requises pour réussir et les possibilités d’emploi dans chaque branche.
+
+	La science informatique est considérée comme faisant partie d’une famille de cinq disciplines distinctes mais interdépendantes :
+
+le génie informatique,
+la science informatique,
+les systèmes d’information,
+la technologie de l’information,
+le génie logiciel.
+
+Cette famille est connue collectivement sous le nom de discipline de l’informatique. 
+Ces cinq disciplines sont liées dans le sens où l’informatique est leur objet d’étude, mais elles sont distinctes car chacune a sa propre perspective de recherche et son propre programme d’études.
+
+	Les principaux sous-domaines ou branches de l’informatique comprennent :
+
+l’architecture des ordinateurs,
+les langages de programmation,
+le développement de logiciels,
+la science algorithmique pour modéliser des données scientifiques,
+le graphisme et la visualisation,
+l’interaction homme-machine,
+les bases de données,
+les systèmes d’information,
+les réseaux,
+les systèmes intelligents et la robotique,
+les systèmes d’exploitation,
+la cyber sécurité,
+la bioinformatique,
+l’informatique quantique,
+les questions sociales et professionnelles qui sont propres à la pratique de l’informatique.
+
+
+
+L’informatique est un domaine d’étude qui aide les gens à comprendre et à inventer des processus pour stocker, organiser, comprendre et manipuler l’information.
+
+Ce domaine comprend des travaux axés sur l’ingénierie et le matériel, comme la conception d’ordinateurs ou de circuits, et des domaines non liés à l’ingénierie, comme la linguistique (langages informatiques) ou la psychologie (utilisation d’ordinateurs pour modéliser la prise de décision humaine).
+
+Dans cette nouvelle ère technologique, la puissance des machines informatiques les place au centre de notre vie quotidienne ; aucun domaine de l’activité humaine n’est épargné par la révolution numérique.
+
+D’un point de vue plus technique, la science informatique est l’étude des ordinateurs et de l’informatique, y compris leurs fondements théoriques et algorithmiques, le matériel et les logiciels, et leurs utilisations pour le traitement de l’information.
+
+La discipline de l’informatique comprend l’étude des algorithmes et des structures de données, la conception des ordinateurs et des réseaux, la modélisation des données et des processus d’information, et l’intelligence artificielle.
+
+L’informatique tire certains de ses fondements des mathématiques et de l’ingénierie et intègre donc des techniques issues de domaines tels que la théorie des files d’attente, les probabilités et les statistiques, et la conception de circuits électroniques. L’informatique fait également un usage intensif des tests d’hypothèses et de l’expérimentation lors de la conceptualisation, de la conception, de la mesure et du perfectionnement de nouveaux algorithmes, de structures d’information et d’architectures informatiques.
+
+La science informatique est considérée comme faisant partie d’une famille de cinq disciplines distinctes mais interdépendantes :
+
+le génie informatique,
+la science informatique,
+les systèmes d’information,
+la technologie de l’information,
+le génie logiciel.
+Cette famille est connue collectivement sous le nom de discipline de l’informatique. Ces cinq disciplines sont liées dans le sens où l’informatique est leur objet d’étude, mais elles sont distinctes car chacune a sa propre perspective de recherche et son propre programme d’études.
+
+les différentes branches de l'informatique
+Les 15 différentes branches de l’informatique
+Les principaux sous-domaines ou branches de l’informatique comprennent :
+
+l’architecture des ordinateurs,
+les langages de programmation,
+le développement de logiciels,
+la science algorithmique pour modéliser des données scientifiques,
+le graphisme et la visualisation,
+l’interaction homme-machine,
+les bases de données,
+les systèmes d’information,
+les réseaux,
+les systèmes intelligents et la robotique,
+les systèmes d’exploitation,
+la cyber sécurité,
+la bioinformatique,
+l’informatique quantique,
+les questions sociales et professionnelles qui sont propres à la pratique de l’informatique.
+Comme on peut le constater, les activités de certains de ces sous-domaines se chevauchent avec celles d’autres domaines modernes, tels que la bioinformatique et 
+la chimie computationnelle. Ces chevauchements sont la conséquence d’une tendance des informaticiens à reconnaître les nombreuses connexions interdisciplinaires de leur domaine et à agir en conséquence.
+
+L’informatique reste fortement ancrée dans les mathématiques et l’ingénierie. Des programmes de licence, de maîtrise et de doctorat en informatique sont
+ couramment proposés par les établissements d’enseignement supérieur, et ces programmes exigent des étudiants qu’ils suivent des cours de mathématiques et d’ingénierie appropriés, en fonction de leur domaine d’intérêt. Par exemple, tous les étudiants de premier cycle en informatique doivent étudier les mathématiques discrètes (logique, combinatoire et théorie élémentaire des graphes). De nombreux programmes exigent également que les étudiants suivent des cours de calcul, de statistiques, d’analyse numérique, de physique et de principes d’ingénierie au début de leurs études.
+
+Source : www.britannica.com/science/computer-science
+
+ 
+
+Quel type de compétences faut-il pour être informaticien ?
+Les compétences nécessaires pour devenir informaticien sont les mathématiques, la logique et la résolution de problèmes. Il n’existe pas de 
+voie professionnelle unique pour tous les informaticiens, car il existe de nombreux départements différents dans ce domaine d’études.
+
+Cela dit, les informaticiens doivent être capables d’effectuer des calculs mathématiques et d’écrire un code logique. Ils doivent également 
+être capables de résoudre des problèmes en y réfléchissant de manière créative.
+
+branche informatique électronique
+5 exemples de branches de l’informatique du futur
+Voici cinq branches intéressantes de l’informatique dans lesquels vous pouvez vous spécialiser :
+
+1. Robotique et intelligence artificielle
+
+La robotique et l’intelligence artificielle sont deux sous-disciplines qui ont fait les gros titres ces dernières années.
+ Le développement de robots capables d’effectuer des tâches allant de l’assemblage de voitures à l’assistance aux patients âgés a le potentiel de transformer la société humaine telle que nous la connaissons.
+L’intelligence artificielle (IA) commence par des informaticiens qui tentent de faire en sorte que les machines pensent davantage comme 
+les humains, notamment en reconnaissant les visages ou en comprenant les modèles de parole.
+La branche de l’IA peut nécessiter des connaissances en biologie ainsi que des langages de codage et divers algorithmes d’apprentissage automatique.
+
+2. Bioinformatique
+
+La bioinformatique est l’étude des données biologiques, telles que les séquences d’ADN et de protéines. Ce domaine s’est développé à partir de 
+ses racines en biologie moléculaire pour englober d’autres disciplines, notamment la génétique, la génomique, la protéomique, la biochimie et la biologie des systèmes.
+	C’est un domaine de recherche de plus en plus populaire auprès des personnes ayant une formation en informatique, car il leur permet de fusionner leurs deux intérêts en un seul emploi.
+
+Les compétences requises comprennent :
+
+Des langages de programmation comme Python ou Java.
+Une maîtrise des technologies web comme HTML, JavaScript et CSS.
+Des connaissances sur les bases de données, notamment MySQL ou PostgreSQL.
+Une familiarité avec les systèmes d’exploitation de type Unix (Linux).
+En outre, vous pouvez avoir besoin d’une expertise de domaine – il peut s’agir d’un savoir-faire médical ou d’une expérience en microbiologie.
+
+
+3. L’électronique numérique
+
+L’électronique numérique est l’une des branches fascinantes de l’informatique. Il s’agit d’une branche qui traite de la conception et de la 
+construction de circuits électroniques, y compris les microprocesseurs, les puces mémoire, les amplificateurs, etc.
+ La conception de l’électronique numérique peut être décomposée en trois étapes :
+la conception d’un circuit électrique
+l’écriture du code source pour le décrire dans un logiciel.
+la simulation du circuit à l’aide d’un logiciel spécialisé comme SPICE ou MATLAB/Simulink, prédisant avec précision le comportement des pièces une fois assemblées.
+La conceptrice teste ensuite ces prédictions en assemblant les composants sur une planche d’essai afin de pouvoir voir si quelque chose ne va pas avant de s’engager à
+ fabriquer des centaines, voire des milliers d’exemplaires.
+
+4. L’informatique quantique
+L’informatique quantique, ou traitement quantique de l’information (TQI), fait référence aux phénomènes de la mécanique quantique pour modéliser et traiter l’information.
+ Les ordinateurs quantiques sont différents des ordinateurs électroniques numériques binaires basés sur des transistors car ils peuvent être simultanément dans une superposition de plusieurs états.
+
+Un qubit est une unité élémentaire d’information quantique ; il représente un état ou un état nul. Une façon de comprendre cela est que
+ lorsque nous mesurons l' »état » d’un système concernant une certaine propriété, telle que sa position le long de deux axes x et y, par exemple, il n’y a que certains résultats possibles.
+Dans l’informatique classique, les bits représentent les données sous forme de 0 et de 1, mais ils ne peuvent pas présenter de phénomènes plus complexes tels que les interférences.
+
+
+	5. Interaction homme-machine
+L’interaction homme-machine (IHM) est l’étude de la manière dont les ordinateurs peuvent être conçus pour aider les gens à accomplir des tâches.
+ L’IHM comprend également la conception de l’accessibilité et de la convivialité, en 
+veillant à ce que les handicaps physiques d’une personne n’interfèrent pas avec l’utilisation d’un dispositif informatique.
+Un bon exemple serait l’adaptation des jeux, afin qu’ils soient plus faciles à jouer pour une personne qui a des difficultés à voir ou à entendre, 
+car son handicap ne lui permet pas de profiter de ce que les autres joueurs trouvent une expérience agréable.
+
+Les informaticiens qui étudient l’interaction homme-machine s’intéressent aux moyens de rendre les ordinateurs plus faciles à utiliser.
